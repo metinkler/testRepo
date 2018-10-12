@@ -1,1 +1,3 @@
 Adding a new feature for release branch off of DEV.
+
+Updating feature file for future feature 3.
